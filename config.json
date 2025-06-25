@@ -1,0 +1,17 @@
+{
+    "dataset_path": "dataset",
+    "models_dir": "models",
+    "yolo_model": "yolov8m.pt",
+    "weapon_classes": ["knife", "gun", "pistol", "rifle", "sword", "firearm"],
+    "confidence_threshold": 0.5,
+    "sequence_length": 30,
+    "input_shape": [128, 128, 3],
+    "lstm_epochs": 10,
+    "lstm_batch_size": 8,
+    "alert_threshold": 0.7,
+    "video_source": 0,
+    "sample_limit": 5000,
+    "real_weapon_threshold": 0.8,
+    "screen_detection_enabled": true,
+    "depth_analysis_enabled": true
+}

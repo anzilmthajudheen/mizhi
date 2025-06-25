@@ -1,0 +1,90 @@
+2025-06-24 15:16:13,977 - WARNING - Error loading config from C:\Users\shahh\Mizhipolice\mizhi-backend\config.json: Expecting value: line 1 column 1 (char 0). Using defaults.
+2025-06-24 15:16:14,127 - INFO - Real weapon classifier model created
+2025-06-24 15:16:14,298 - INFO - YOLO model loaded successfully from C:\Users\shahh\Mizhipolice\mizhi-backend\models\yolov8m.pt
+2025-06-24 15:16:16,106 - INFO - Feature extractor created successfully
+2025-06-24 15:16:16,106 - WARNING - LSTM model not found. Training required.
+2025-06-24 15:16:16,106 - INFO - Security Surveillance System initialized
+2025-06-24 15:16:16,106 - INFO - MIZHI SecuritySurveillanceSystem initialized successfully.
+2025-06-24 15:16:16,109 - INFO - Starting Flask-SocketIO server...
+2025-06-24 15:16:16,109 - INFO -  * Restarting with stat
+2025-06-24 15:16:27,032 - WARNING - Error loading config from C:\Users\shahh\Mizhipolice\mizhi-backend\config.json: Expecting value: line 1 column 1 (char 0). Using defaults.
+2025-06-24 15:16:27,163 - INFO - Real weapon classifier model created
+2025-06-24 15:16:27,327 - INFO - YOLO model loaded successfully from C:\Users\shahh\Mizhipolice\mizhi-backend\models\yolov8m.pt
+2025-06-24 15:16:29,128 - INFO - Feature extractor created successfully
+2025-06-24 15:16:29,128 - WARNING - LSTM model not found. Training required.
+2025-06-24 15:16:29,128 - INFO - Security Surveillance System initialized
+2025-06-24 15:16:29,128 - INFO - MIZHI SecuritySurveillanceSystem initialized successfully.
+2025-06-24 15:16:29,128 - INFO - Starting Flask-SocketIO server...
+2025-06-24 15:16:29,136 - WARNING -  * Debugger is active!
+2025-06-24 15:16:29,144 - INFO -  * Debugger PIN: 714-046-736
+2025-06-24 15:16:29,785 - INFO - Client connected to SocketIO
+2025-06-24 15:16:57,920 - INFO - Client disconnected from SocketIO
+2025-06-24 15:17:00,527 - INFO - Client connected to SocketIO
+2025-06-24 15:18:32,155 - INFO - Client disconnected from SocketIO
+2025-06-24 15:18:55,378 - INFO - Real weapon classifier model created
+2025-06-24 15:18:55,542 - INFO - YOLO model loaded successfully from C:\Users\shahh\Mizhipolice\mizhi-backend\models\yolov8m.pt
+2025-06-24 15:18:57,258 - INFO - Feature extractor created successfully
+2025-06-24 15:18:57,258 - WARNING - LSTM model not found. Training required.
+2025-06-24 15:18:57,258 - INFO - Security Surveillance System initialized
+2025-06-24 15:18:57,258 - INFO - MIZHI SecuritySurveillanceSystem initialized successfully.
+2025-06-24 15:18:57,258 - INFO - Starting Flask-SocketIO server...
+2025-06-24 15:18:57,258 - INFO -  * Restarting with stat
+2025-06-24 15:19:07,389 - INFO - Real weapon classifier model created
+2025-06-24 15:19:07,490 - INFO - YOLO model loaded successfully from C:\Users\shahh\Mizhipolice\mizhi-backend\models\yolov8m.pt
+2025-06-24 15:19:08,797 - INFO - Feature extractor created successfully
+2025-06-24 15:19:08,797 - WARNING - LSTM model not found. Training required.
+2025-06-24 15:19:08,797 - INFO - Security Surveillance System initialized
+2025-06-24 15:19:08,797 - INFO - MIZHI SecuritySurveillanceSystem initialized successfully.
+2025-06-24 15:19:08,813 - INFO - Starting Flask-SocketIO server...
+2025-06-24 15:19:08,819 - WARNING -  * Debugger is active!
+2025-06-24 15:19:08,823 - INFO -  * Debugger PIN: 714-046-736
+2025-06-24 15:19:31,874 - INFO - Client connected to SocketIO
+2025-06-24 15:20:20,432 - INFO - Client disconnected from SocketIO
+2025-06-24 15:20:22,054 - INFO - Client connected to SocketIO
+2025-06-24 16:07:56,327 - INFO - Client disconnected from SocketIO
+2025-06-24 16:08:50,211 - INFO - Client connected to SocketIO
+2025-06-24 16:10:32,332 - INFO - Real weapon classifier model created
+2025-06-24 16:10:32,497 - INFO - YOLO model loaded successfully from C:\Users\shahh\Mizhipolice\mizhi-backend\models\yolov8m.pt
+2025-06-24 16:10:34,259 - INFO - Feature extractor created successfully
+2025-06-24 16:10:34,259 - WARNING - LSTM model not found. Training required.
+2025-06-24 16:10:34,259 - INFO - Security Surveillance System initialized
+2025-06-24 16:10:34,259 - INFO - MIZHI SecuritySurveillanceSystem initialized successfully.
+2025-06-24 16:10:34,259 - INFO - Starting Flask-SocketIO server...
+2025-06-24 16:10:34,271 - INFO -  * Restarting with stat
+2025-06-24 16:10:45,010 - INFO - Real weapon classifier model created
+2025-06-24 16:10:45,130 - INFO - YOLO model loaded successfully from C:\Users\shahh\Mizhipolice\mizhi-backend\models\yolov8m.pt
+2025-06-24 16:10:47,028 - INFO - Feature extractor created successfully
+2025-06-24 16:10:47,028 - WARNING - LSTM model not found. Training required.
+2025-06-24 16:10:47,028 - INFO - Security Surveillance System initialized
+2025-06-24 16:10:47,028 - INFO - MIZHI SecuritySurveillanceSystem initialized successfully.
+2025-06-24 16:10:47,028 - INFO - Starting Flask-SocketIO server...
+2025-06-24 16:10:47,038 - WARNING -  * Debugger is active!
+2025-06-24 16:10:47,042 - INFO -  * Debugger PIN: 714-046-736
+2025-06-24 16:10:48,188 - INFO - Client connected to SocketIO
+2025-06-24 16:10:54,298 - INFO - Client disconnected from SocketIO
+2025-06-24 16:10:54,301 - ERROR - 'Session is disconnected' zygXQtV9w6Sj0-_fAAAA (further occurrences of this error will be logged with level INFO)
+2025-06-24 16:10:55,678 - INFO - Client connected to SocketIO
+2025-06-24 16:20:11,119 - INFO - Real weapon classifier model created
+2025-06-24 16:20:11,309 - INFO - YOLO model loaded successfully from C:\Users\shahh\Mizhipolice\mizhi-backend\models\yolov8m.pt
+2025-06-24 16:20:13,920 - INFO - Feature extractor created successfully
+2025-06-24 16:20:13,936 - WARNING - LSTM model not found. Training required.
+2025-06-24 16:20:13,938 - INFO - Security Surveillance System initialized
+2025-06-24 16:20:13,946 - INFO - MIZHI SecuritySurveillanceSystem initialized successfully.
+2025-06-24 16:20:13,976 - INFO - Starting Flask-SocketIO server...
+2025-06-24 16:20:14,055 - INFO -  * Restarting with stat
+2025-06-24 16:20:27,169 - INFO - Real weapon classifier model created
+2025-06-24 16:20:27,324 - INFO - YOLO model loaded successfully from C:\Users\shahh\Mizhipolice\mizhi-backend\models\yolov8m.pt
+2025-06-24 16:20:29,083 - INFO - Feature extractor created successfully
+2025-06-24 16:20:29,083 - WARNING - LSTM model not found. Training required.
+2025-06-24 16:20:29,083 - INFO - Security Surveillance System initialized
+2025-06-24 16:20:29,083 - INFO - MIZHI SecuritySurveillanceSystem initialized successfully.
+2025-06-24 16:20:29,099 - INFO - Starting Flask-SocketIO server...
+2025-06-24 16:20:29,109 - WARNING -  * Debugger is active!
+2025-06-24 16:20:29,113 - INFO -  * Debugger PIN: 714-046-736
+2025-06-24 16:20:55,527 - INFO - Client connected to SocketIO
+2025-06-24 16:23:55,495 - INFO - Client disconnected from SocketIO
+2025-06-24 16:23:58,451 - INFO - Client connected to SocketIO
+2025-06-24 16:26:05,942 - INFO - Client disconnected from SocketIO
+2025-06-24 16:42:06,899 - INFO - Client connected to SocketIO
+2025-06-24 16:45:00,562 - INFO - Client disconnected from SocketIO
+2025-06-24 16:45:04,143 - INFO - Client connected to SocketIO

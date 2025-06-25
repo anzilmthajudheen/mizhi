@@ -1,0 +1,9 @@
+/* Custom font for better aesthetics - linked in HTML head already, but good to ensure here */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Ensure hidden elements truly take no space */
+.hidden {
+    display: none !important;
+}
